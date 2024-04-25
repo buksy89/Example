@@ -1,0 +1,20 @@
+/* preset*/
+#title--style {
+  font: 100px;
+  color: blue;
+  font-style: oblique;
+  border: 20px;
+  border-color: aquas;
+}
+body {
+  background-color: rgb(4, 82, 65);
+  font: bold;
+  font-display: red;
+  text-emphasis-color: white;
+}
+#book {
+  background-color: brown;
+}
+#inline {
+  display: inline;
+}
